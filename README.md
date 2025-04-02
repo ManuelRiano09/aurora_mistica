@@ -1,16 +1,38 @@
-# aurora_candle
+# Aurora Candle
 
-A new Flutter project.
+Aurora Candle es una aplicación Flutter diseñada para gestionar plantillas de velas
+Testeado y en PROD para IOS
 
-## Getting Started
+## Características
 
-This project is a starting point for a Flutter application.
+- Visualización de plantillas de velas con detalles como esencia, color, descripción y comentarios.
+- Edición de la cantidad disponible de cada plantilla.
+- Uso de `Provider` para la gestión del estado.
 
-A few resources to get you started if this is your first Flutter project:
+## Capturas de Pantalla
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*(Incluye aquí capturas de pantalla de la aplicación si es posible)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologías Utilizadas
+
+- **Flutter**: Framework principal para el desarrollo de la aplicación.
+- **Provider**: Gestión del estado.
+- **Dart**: Lenguaje de programación utilizado en Flutter.
+- **FirebaseDataBase**: Para BD (capa gratuita)
+
+## Instalación
+
+Sigue estos pasos para clonar e instalar el proyecto:
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/aurora_candle.git
+2. Navega al directorio del proyecto:
+   ```bash
+   cd aurora_candle
+3. Instala las dependencias:
+   ```bash
+   flutter pub get
+4. Ejecuta la aplicación:
+    ```bash
+    flutter run
