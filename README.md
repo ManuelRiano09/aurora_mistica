@@ -9,10 +9,6 @@ Testeado y en PROD para IOS
 - Edición de la cantidad disponible de cada plantilla.
 - Uso de `Provider` para la gestión del estado.
 
-## Capturas de Pantalla
-
-*(Incluye aquí capturas de pantalla de la aplicación si es posible)*
-
 ## Tecnologías Utilizadas
 
 - **Flutter**: Framework principal para el desarrollo de la aplicación.
