@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902790579168",
+    "project_id": "aurora-candle",
+    "storage_bucket": "aurora-candle.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902790579168:android:bc0fa837a09e2eb3fbe185",
+        "android_client_info": {
+          "package_name": "com.example.aurora_candle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIQaPdcgCB3PKKVsEObdrqVFNOOKSTjeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
